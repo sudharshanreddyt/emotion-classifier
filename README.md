@@ -1,4 +1,4 @@
-## 💬 Emotion Classifier — DistilBERT Fine-Tuned Model
+## 💬 Emotion Classifier - DistilBERT Fine-Tuned Model
 
 ### 🧠 Overview
 
@@ -64,6 +64,11 @@ uv sync
 
 #### 4. Open in your browser:
    `http://localhost:8501`
+
+---
+
+### Sample Output
+![Sample_Output](./outputs/sample_output.png)
 
 ---
 
